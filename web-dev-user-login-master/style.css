@@ -1,0 +1,59 @@
+body {
+    background: url(images/background.jpg) no-repeat center fixed;
+    background-size: cover;
+    text-align: center;
+}
+
+div.main {
+    background-color: rgba(255, 255, 255, 0.8);
+    margin: auto;
+    width: 600px;
+    border-radius: 24px;
+    border: 3px solid purple;
+}
+
+
+div.second {
+    background-color: purple;
+    padding-bottom: 10px;
+}
+
+em {
+    color: white;
+}
+
+.dub {
+    text-decoration: none;
+}
+
+.white {
+    color: white;
+    padding-top: 17px;
+}
+
+button {
+    size: 20px;
+    background-color: green;
+    color: white;
+    padding: 8px;
+}
+
+p {
+    color: white;
+}
+
+.facebook {
+    padding: 12px;
+}
+
+.youtube {
+    padding: 12px;
+}
+
+.twitter {
+    padding: 12px;
+}
+
+.instagram {
+    padding: 12px;
+}
